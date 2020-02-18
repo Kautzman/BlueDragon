@@ -1,0 +1,7 @@
+C:\Users\Kautzman\Documents\Visual Studio 2017\Projects\BlueDragon\BlueDragon\bin\Debug\BlueDragon.exe.config
+C:\Users\Kautzman\Documents\Visual Studio 2017\Projects\BlueDragon\BlueDragon\bin\Debug\BlueDragon.exe
+C:\Users\Kautzman\Documents\Visual Studio 2017\Projects\BlueDragon\BlueDragon\bin\Debug\BlueDragon.pdb
+C:\Users\Kautzman\Documents\Visual Studio 2017\Projects\BlueDragon\BlueDragon\obj\Debug\BlueDragon.csprojResolveAssemblyReference.cache
+C:\Users\Kautzman\Documents\Visual Studio 2017\Projects\BlueDragon\BlueDragon\obj\Debug\BlueDragon.csproj.CoreCompileInputs.cache
+C:\Users\Kautzman\Documents\Visual Studio 2017\Projects\BlueDragon\BlueDragon\obj\Debug\BlueDragon.exe
+C:\Users\Kautzman\Documents\Visual Studio 2017\Projects\BlueDragon\BlueDragon\obj\Debug\BlueDragon.pdb
